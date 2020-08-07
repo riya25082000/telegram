@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "718517394267",
+    "firebase_url": "https://social-network-app-6f250.firebaseio.com",
+    "project_id": "social-network-app-6f250",
+    "storage_bucket": "social-network-app-6f250.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718517394267:android:3cda48b479f7e369bc587e",
+        "android_client_info": {
+          "package_name": "com.riya.telegramchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "718517394267-u1t0pud3a3o7h9nj952ilvs8asbe2tf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.riya.telegramchatapp",
+            "certificate_hash": "e38f9bae82b74a3da1a23700045f449bc66eeea5"
+          }
+        },
+        {
+          "client_id": "718517394267-ftu61hqk2mn7rf6spnc6kprr3djes04t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk2XdXR6IuPt0oRCddfm4Aq4FIS_DcZXc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "718517394267-ftu61hqk2mn7rf6spnc6kprr3djes04t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
